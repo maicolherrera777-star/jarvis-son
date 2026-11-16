@@ -1,0 +1,35 @@
+{
+  "stt": [
+    {
+      "nombre": "whisper.cpp ggml-base (multilingüe)",
+      "origen": "https://huggingface.co/ggerganov/whisper.cpp",
+      "licencia": "MIT",
+      "sha256": "ed7d84bba9bab448df74ce0f074d2836f6d2319b22a07f0f62b083c276a77d4c"
+    },
+    {
+      "nombre": "whisper.cpp ggml-tiny (multilingüe)",
+      "origen": "https://huggingface.co/ggerganov/whisper.cpp",
+      "licencia": "MIT",
+      "sha256": "bd758fce59b032afc72479e5e98bb6c7c2b5cb37719f99f36554b7c6c74070a8"
+    }
+  ],
+  "slm": {
+    "nombre": "Qwen2.5-1.5B-Instruct",
+    "formato": "GGUF",
+    "cuantizacion": "Q4_0",
+    "origen": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+    "licencia": "Apache-2.0",
+    "sha256": "dcd819ff094852c38faba6873d8ff0c9d51eadb2844539e52042ae5d647bbfdb"
+  },
+  "tts": {
+    "nombre": "vits-piper-es_MX-claude-high",
+    "idioma": "es_MX",
+    "calidad": "high",
+    "frecuencia_muestreo_hz": 22050,
+    "origen": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-es_MX-claude-high.tar.bz2",
+    "licencia_declarada_en_MODEL_CARD": "apache-2.0",
+    "sha256_onnx": "6b7a54f5fcc8c9ce3788cd308a26cfa429ad025cdff4a7a6c34d025d0d229341",
+    "sha256_tar_bz2": "ec33fb689c248fe64810aab564cba97babf0f506672cfd404928d46e751a4721",
+    "motor": "sherpa-onnx 2.0.1 (pip) + espeak"
+  }
+}

@@ -1,0 +1,11 @@
+*.gguf
+*.onnx
+*.bin
+*.tar.bz2
+*.wav
+*.m4a
+*.mp3
+voces/
+build/
+__pycache__/
+logs/
