@@ -28,8 +28,8 @@
     "frecuencia_muestreo_hz": 22050,
     "origen": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-es_MX-claude-high.tar.bz2",
     "licencia_declarada_en_MODEL_CARD": "apache-2.0",
-    "sha256_onnx": "6b7a54f5fcc8c9ce3788cd308a26cfa429ad02c1cd9ccaece980a316b23d0408",
-    "sha256_tar_bz2": "6b7a54f5fcc8c9ce3788cd308a26cfa429ad02c1cd9ccaece980a316b23d0408",
+    "sha256_onnx": "6b7a54f5fcc8c9ce3788cd308a26cfa429ad025cdff4a7a6c34d025d0d229341",
+    "sha256_tar_bz2": "ec33fb689c248fe64810aab564cba97babf0f506672cfd404928d46e751a4721",
     "motor": "sherpa-onnx 2.0.1 (pip) + espeak"
   }
 }
