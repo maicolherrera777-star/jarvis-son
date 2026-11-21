@@ -21,8 +21,8 @@ Como el celular de prueba tiene 12 GB de RAM y procesador ARM64, pudimos configu
 
 | Medición | Resultado | Observación |
 | :--- | :---: | :--- |
-| **Tiempo hasta empezar a hablar (p50)** | **4.40 s** (`4400 ms`) | Mediana de los turnos probados |
-| **Tiempo hasta empezar a hablar (p95)** | **5.38 s** (`5380 ms`) | Percentil 95 |
+| **Tiempo hasta empezar a hablar (p50)** | **4.40 s** (4400 ms) | Mediana de los turnos probados |
+| **Tiempo hasta empezar a hablar (p95)** | **5.38 s** (5380 ms) | Percentil 95 |
 | **Rango en 10 turnos** | 3.8 s a 5.7 s | 4.2s, 5.7s, 4.4s, 3.8s, 4.6s, 4.9s, 3.9s, 4.0s, 4.4s |
 | **Detalle por etapa** | logs/metricas.csv | Guardado automáticamente por main.cpp durante la ejecución |
 
